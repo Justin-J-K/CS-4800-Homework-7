@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d247962-cb0e-441e-a5e4-18531c22a4eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/DocumentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/DocumentDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Font.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/flyweight/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/SongDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/SongProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/SongServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/SongService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/CharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/ColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/DocumentBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/DocumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/FontTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/flyweight/SizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/proxy/SongServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/proxy/SongTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fhw9j5RfJnBOHWcw9EgUv4TqbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DocumentDriver.executor": "Run",
+    "Application.SongDriver.executor": "Run",
+    "JUnit.CharacterTest.canGetToStringOfCharacter.executor": "Run",
+    "JUnit.CharacterTest.executor": "Run",
+    "JUnit.ColorTest.canGetSanitizedColorName.executor": "Run",
+    "JUnit.ColorTest.executor": "Run",
+    "JUnit.DocumentBuilderTest.executor": "Run",
+    "JUnit.DocumentTest.canGetToStringOfDocument.executor": "Run",
+    "JUnit.DocumentTest.canSaveDocument.executor": "Run",
+    "JUnit.DocumentTest.executor": "Run",
+    "JUnit.FontTest.canGetSanitizedFontName.executor": "Run",
+    "JUnit.FontTest.executor": "Run",
+    "JUnit.SizeTest.executor": "Run",
+    "JUnit.SongServiceTest.executor": "Run",
+    "JUnit.SongTest.canGetToStringOfSong.executor": "Run",
+    "JUnit.SongTest.canSongsBeEqual.executor": "Run",
+    "JUnit.SongTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All Tests">
+    <configuration name="DocumentDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flyweight.DocumentDriver" />
+      <module name="CS_4800_HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.SongDriver" />
+      <module name="CS_4800_HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Tests" type="JUnit" factoryName="JUnit">
+      <module name="CS_4800_HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="flyweight" />
+      <option name="MAIN_CLASS_NAME" value="flyweight.DocumentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentTest.canLoadDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="flyweight" />
+      <option name="MAIN_CLASS_NAME" value="flyweight.DocumentTest" />
+      <option name="METHOD_NAME" value="canLoadDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentTest.canSaveDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS_4800_HW7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="flyweight" />
+      <option name="MAIN_CLASS_NAME" value="flyweight.DocumentTest" />
+      <option name="METHOD_NAME" value="canSaveDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DocumentDriver" />
+      <item itemvalue="Application.SongDriver" />
+      <item itemvalue="JUnit.All Tests" />
+      <item itemvalue="JUnit.DocumentTest" />
+      <item itemvalue="JUnit.DocumentTest.canLoadDocument" />
+      <item itemvalue="JUnit.DocumentTest.canSaveDocument" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SongDriver" />
+        <item itemvalue="Application.DocumentDriver" />
+        <item itemvalue="JUnit.DocumentTest" />
+        <item itemvalue="JUnit.DocumentTest.canLoadDocument" />
+        <item itemvalue="JUnit.DocumentTest.canSaveDocument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d247962-cb0e-441e-a5e4-18531c22a4eb" name="Changes" comment="" />
+      <created>1714266467316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714266467316</updated>
+      <workItem from="1714266468349" duration="4125000" />
+      <workItem from="1714348527075" duration="3257000" />
+      <workItem from="1714410106255" duration="2699000" />
+      <workItem from="1714424840670" duration="3213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
